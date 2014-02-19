@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SCOTT</Machine>
+    <WindowsUser>Scott</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>8D913BB5E31C1F00C711C33E3B9AD43DD46C04747D19C096E9149F22B79B762B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>816569f7-a628-4596-84c2-b51afa4ab03a_1.0.0.0_neutral__c5e87d2hkek00</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>816569f7-a628-4596-84c2-b51afa4ab03a_c5e87d2hkek00!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>816569f7-a628-4596-84c2-b51afa4ab03a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Scott</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-17T18:25:08.555</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\myApp.exe">
+      <PackagePath>myApp.exe</PackagePath>
+      <Modified>2014-02-17T18:25:07.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\myApp.pdb">
+      <PackagePath>myApp.pdb</PackagePath>
+      <Modified>2014-02-17T18:25:07.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T20:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-02-17T17:45:41.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-02-17T17:31:18.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T16:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\EasyPage.xaml">
+      <PackagePath>EasyPage.xaml</PackagePath>
+      <Modified>2014-02-17T18:25:02.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\LevelSelect.xaml">
+      <PackagePath>LevelSelect.xaml</PackagePath>
+      <Modified>2014-02-17T18:25:02.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-02-17T18:07:33.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\MediumPage.xaml">
+      <PackagePath>MediumPage.xaml</PackagePath>
+      <Modified>2014-02-17T18:25:02.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\Settings.xaml">
+      <PackagePath>Settings.xaml</PackagePath>
+      <Modified>2014-02-17T18:07:33.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Scott\Desktop\App_Dev\myApp\myApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-17T18:25:08.276</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
